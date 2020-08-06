@@ -1,7 +1,0 @@
-server/.gitignore
-
-.env
-
-server/env
-server/node_modules
-
