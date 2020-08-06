@@ -1,1 +1,5 @@
+server/.gitignore
+
 .env
+
+/server/node_modules
